@@ -1,0 +1,6 @@
+DO NOT USE THIS CODE!!!
+
+It does not do any handling of URL encoding or decoding (like the common %20
+you may find in various URIs).
+
+I may add that, however, at some point.
